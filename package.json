@@ -1,0 +1,29 @@
+{
+  "name": "node-assert",
+  "description": "An augmented assertion framework for node.js",
+  "keywords": [
+    "assert",
+    "assertion"
+  ],
+  "author": "Anand Suresh <anandsuresh@gmail.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/anandsuresh/node-assert",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anandsuresh/node-assert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anandsuresh/node-assert/issues"
+  },
+  "main": "assert.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
