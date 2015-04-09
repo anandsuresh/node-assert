@@ -1,4 +1,4 @@
-# node-assert
+# node-assert [![Build Status](https://travis-ci.org/anandsuresh/node-assert.svg?branch=master)](https://travis-ci.org/anandsuresh/node-assert) [![npm version](https://badge.fury.io/js/node-assert.svg)](http://badge.fury.io/js/node-assert)
 Node-assert is the assertion framework that Node.JS is currently lacking. It augments the assert module by:
 
 * Adding a set of helper functions to perform type checks
